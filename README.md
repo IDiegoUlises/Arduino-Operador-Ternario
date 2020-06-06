@@ -1,1 +1,1 @@
-# Operador-Ternario
+# Operador Ternario
