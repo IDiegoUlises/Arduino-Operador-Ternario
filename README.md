@@ -23,7 +23,7 @@ void loop() {
 
 boolean estado = false;
 
-String valor = estado ? "valor verdadero": "valor falso";
+String cadena = estado ? "valor verdadero": "valor falso";
 Serial.println(valor);
 }
 
