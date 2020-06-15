@@ -1,3 +1,5 @@
+# Operador Ternario
+
 **Utilizando el Operador Ternario**
 ```c++
 String cadena = estado ? "valor verdadero": "valor falso";
