@@ -8,8 +8,8 @@ String cadena = estado ? "valor verdadero": "valor falso";
 **Es equivalente**
 ```c++
 if (estado) {
-    print("valor verdadero");
+    cadena = "valor verdadero";
 } else {
-    print("valor falso")
+    cadena = "valor falso";
 }
 ```
