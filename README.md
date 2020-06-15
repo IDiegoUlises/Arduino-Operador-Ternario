@@ -1,6 +1,5 @@
 **Utilizando el Operador Ternario**
 ```c++
-Boolean estado = true;
 String cadena = estado ? "valor verdadero": "valor falso";
 ```
 
@@ -11,22 +10,4 @@ if (estado) {
 } else {
     print("valor falso")
 }
-```
-
-
-
-## Codigo de prueba
-```c++
-void setup() {
-Serial.begin(9600);
-}
-
-void loop() {
-
-boolean estado = false;
-
-String cadena = estado ? "valor verdadero": "valor falso";
-Serial.println(valor);
-}
-
 ```
