@@ -1,5 +1,6 @@
-**Utilizando el operador ternario**
+**Utilizando el Operador Ternario**
 ```c++
+Boolean estado = true;
 String cadena = estado ? "valor verdadero": "valor falso";
 ```
 
