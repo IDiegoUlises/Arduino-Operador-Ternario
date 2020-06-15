@@ -12,3 +12,19 @@ if (expresión1) {
     expresión3;
 }
 ```
+
+## Codigo de prueba
+```c++
+void setup() {
+Serial.begin(9600);
+}
+
+void loop() {
+
+boolean estado = false;
+
+int valor = estado ? 1: 2;
+Serial.println(valor);
+}
+
+```
