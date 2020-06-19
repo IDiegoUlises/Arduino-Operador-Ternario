@@ -7,6 +7,8 @@ String cadena = estado ? "valor verdadero": "valor falso";
 
 **Es equivalente**
 ```c++
+string cadena;
+
 if (estado)
 {
   cadena = "valor verdadero";
