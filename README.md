@@ -22,5 +22,5 @@ else
 
 **Utilizar el operador ternario sin almacenar una variable**
 ```c++
-Boolean estado = false;
-estado ? Serial.println("valor verdadero"): Serial.println("valor falso");
+estado ? print("valor verdadero"): print("valor falso");
+```
