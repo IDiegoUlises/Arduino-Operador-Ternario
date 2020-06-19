@@ -17,3 +17,8 @@ else
   cadena = "valor falso";
 }
 ```
+
+**Utilizar el operador ternario sin almacenar una variable**
+```c++
+Boolean estado = false;
+estado ? print("valor verdadero"): print("valor falso");
